@@ -6,3 +6,5 @@ INSTALLATION:
 	- finally, run start.bat to start the client and enjoy!
 
 		- TTS audio is produced from the client console, not in-game
+
+***THIS IS A FREE, AND GENERALLY FASTER ALTERNATIVE, BUT QUALITY IS NOTICABLY LACKING COMPARED TO THE MODEL USED BY https://coqui.ai/ ***
